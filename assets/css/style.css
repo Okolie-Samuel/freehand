@@ -1,0 +1,389 @@
+* {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#dy{
+	margin: 7%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#ul{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+#sign-in{
+	padding: 2px 20px 2px 20px;
+	border-radius: 8px;
+	border: 2px solid #16133D;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	background-color: #ffffff;
+}
+
+#log-in{
+	padding: 2px 20px 2px 20px;
+	border-radius: 8px;
+	border: 2px solid #16133D;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ffffff;
+	background-color: #16133D;
+}
+
+#heading{
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 45px;
+	letter-spacing: 0.2px;
+	color: #16133D;
+}
+
+#lorem1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 30px;
+	color: #183B56;
+}
+
+#View{
+	background: #007FFC;
+	border-radius: 8px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 13px;
+	color: #FFFFFF;
+	width: 100%;
+	border: 2px solid #007FFC;
+}
+
+#Learn{
+	background: #ffffff;
+	border-radius: 8px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 13px;
+	color: #007FFC;
+	width: 100%;
+	border: 2px solid #007FFC;
+}
+
+#Our{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 21px;
+	color: #7690A8;
+}
+
+#We{
+	font-family: Nunito Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 52px;
+	letter-spacing: 0.2px;
+	color: #16133D;
+}
+
+#mi{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 28px;
+	letter-spacing: 0.2px;
+	color: #FFFFFF;
+}
+
+
+#lorem2{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 28px;
+	color: #16133D;
+}
+
+#word{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 21px;
+	letter-spacing: 0.2px;
+	color: #16133D;
+}
+
+#lorem3{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	color: #16133D;
+}
+
+#more{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	color: #16133D;
+}
+
+#lorem4{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 28px;
+	color: #7690A8;
+}
+
+#lorem5{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 28px;
+	color: #5A7184;
+}
+
+#start{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 32px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #16133D;
+}
+
+#c1{
+	width: 15rem; 
+	border-top: 1px solid #007FFC;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	border-radius: 0px;
+}
+
+#free{
+	font-family: Roboto;
+	font-style: normal;	
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 52px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #007FFC;
+}
+
+#per{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #5A7184;
+	text-align: center;
+}
+
+#c2{
+	width: 15rem; 
+	border-top: 1px solid #52C29D;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	border-radius: 0px;
+}
+
+#twenty{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 52px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #52C29D;
+}
+
+#c3{
+	width: 15rem; 
+	border-top: 1px solid #f04d5d;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	border-radius: 0px;
+}
+
+#fifty{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 52px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #F04D5D;
+}
+
+#get1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 35px;
+	text-align: center;
+	color: #16133D;
+	border: 1.5px solid #16133D;
+	box-sizing: border-box;
+	border-radius: 50px;
+	padding: 0px 30px 0px 30px;
+	background: #ffffff;
+}
+
+#get2{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 35px;
+	text-align: center;
+	color: #FFFFFF;
+	background: #16133D;
+	border: 1px solid #16133D;
+	box-sizing: border-box;
+	border-radius: 50px;
+	padding: 0px 30px 0px 30px;
+}
+
+#back{
+
+ 	background-color: #007FFC;
+	margin: 7%;
+	margin-top: 0;
+	margin-bottom: 0;
+	border-radius: 15px;
+}
+
+#start1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 52px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #FFFFFF;
+	width: 130%;
+}
+
+#no{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+#try{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+	color: #183B56;
+	background: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	box-sizing: border-box;
+	border-radius: 50px;
+}
+
+#watch{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+	color: #FFFFFF;
+	border: 2px solid #FFFFFF;
+	box-sizing: border-box;
+	border-radius: 50px;
+	background-color: #007FFC;
+}
+
+footer{
+	color: #ffffff;
+	background-color: #16133D;
+	margin: 0;
+}
+
+#im{
+	width: 15%
+}
+
+#hand{
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 35px;
+	color: #F2F2F2;
+}
+
+#brand{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	color: #EFEEF3;
+}
+
+#se{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	line-height: 24px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #EFEEF3;
+}
+
+#mail1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #EFEEF3;
+}
